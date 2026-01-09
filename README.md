@@ -106,9 +106,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Your Name**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- Kaggle: [Your Kaggle](https://kaggle.com/YOUR_USERNAME)
+Suyash Shukla
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/suyash-shukla-research-analyst)
 
 ---
 
